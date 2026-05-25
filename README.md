@@ -10,7 +10,7 @@ orders before dispatch.
 ## Key Findings
 - Late delivery rate: 54.71% (94,523 orders affected)
 - Profit at risk: $2.1M across delayed orders
-- First Class shipping: 100% delay rate — the single biggest operational failure
+- First Class shipping: 100% delay rate, the single biggest operational failure
 - Peak delay months: August, September (55.4%) and December (55.2%)
 - Predictive model precision on late orders: 77%
 
