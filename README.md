@@ -20,7 +20,6 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, NumPy
 ## Project Structure
 - `notebooks/` — full analysis notebook with commentary
 - `report/` — 9-section business report with 8 prioritised recommendations
-- `dashboard/` — key visualisations and bottleneck charts
 
 ## Results Summary
 | Metric | Value |
